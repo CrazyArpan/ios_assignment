@@ -22,13 +22,13 @@ Follow these steps to run the project locally:
 
 
 2️⃣ Notification Page
-🔹 Shows system notifications and alerts received within the app.
+🔹 Shows system notifications received within the app.
 <img width="374" alt="Notification Page" src="https://github.com/user-attachments/assets/9adc62a1-a097-44f0-86ca-82c4d4945a43" />
 
 3️⃣ Login Attempt Countdown
-🔹 If a user enters incorrect credentials, a countdown appears before the next attempt.
+🔹 If a user enters incorrect credentials, an alert with counts appears before the next attempt.
 <img width="374" alt="Login Attempt Countdown" src="https://github.com/user-attachments/assets/7986fb1c-8728-4356-bddd-952ec03a2502" />
 
 4️⃣ Account Lock Alert (After 3 Failed Attempts)
-🔹 Users entering an incorrect password more than 3 times receive this warning.
+🔹 Users entering an incorrect password more than 3 times gget blocked.
 <img width="374" alt="Invalid Password Alert" src="https://github.com/user-attachments/assets/04a23dbc-6351-4c20-bd0e-5fc161ef34e6" />
