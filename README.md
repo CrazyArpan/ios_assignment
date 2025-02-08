@@ -20,6 +20,7 @@ Follow these steps to run the project locally:
 🔹 This screen displays the initial interface where users can log in to the app.
 <img width="374" alt="Login Page" src="https://github.com/user-attachments/assets/b8175443-071c-4ac5-9ec1-a348f8fa175d" />
 
+
 2️⃣ Notification Page
 🔹 Shows system notifications and alerts received within the app.
 <img width="374" alt="Notification Page" src="https://github.com/user-attachments/assets/9adc62a1-a097-44f0-86ca-82c4d4945a43" />
