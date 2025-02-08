@@ -14,3 +14,4 @@ Follow these steps to run the project locally:
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/CrazyArpan/ios_assignment.git
+📸 Screenshots <img width="374" alt="Screenshot 2025-02-08 at 15 31 22" src="https://github.com/user-attachments/assets/04a23dbc-6351-4c20-bd0e-5fc161ef34e6" />
