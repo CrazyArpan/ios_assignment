@@ -16,19 +16,12 @@ Follow these steps to run the project locally:
    git clone https://github.com/CrazyArpan/ios_assignment.git
 📸 Screenshots
 
-1️⃣ Login & Landing Page
-🔹 This screen displays the initial interface where users can log in to the app.
+
 <img width="374" alt="Login Page" src="https://github.com/user-attachments/assets/b8175443-071c-4ac5-9ec1-a348f8fa175d" />
 
 
-2️⃣ Notification Page
-🔹 Shows system notifications received within the app.
 <img width="374" alt="Notification Page" src="https://github.com/user-attachments/assets/9adc62a1-a097-44f0-86ca-82c4d4945a43" />
 
-3️⃣ Login Attempt Countdown
-🔹 If a user enters incorrect credentials, an alert with counts appears before the next attempt.
 <img width="374" alt="Login Attempt Countdown" src="https://github.com/user-attachments/assets/7986fb1c-8728-4356-bddd-952ec03a2502" />
 
-4️⃣ Account Lock Alert (After 3 Failed Attempts)
-🔹 Users entering an incorrect password more than 3 times gget blocked.
 <img width="374" alt="Invalid Password Alert" src="https://github.com/user-attachments/assets/04a23dbc-6351-4c20-bd0e-5fc161ef34e6" />
