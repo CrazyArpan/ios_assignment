@@ -6,7 +6,7 @@ This project is part of the technical assessment for the Associate iOS Developer
 ## 🛠️ Tech Stack  
 - **Language:** Swift  
 - **IDE:** Xcode  
-- **Frameworks Used:** [Mention any libraries/frameworks used, e.g., UIKit, SwiftUI, CoreData]  
+- **Frameworks Used:** SwiftUI  
 
 ## 📥 Installation & Setup  
 Follow these steps to run the project locally:  
